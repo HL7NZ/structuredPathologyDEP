@@ -1,5 +1,3 @@
-
-
 This guide describes how to implement solutions compliant with the data standards created by the Structured Pathology project.
 
 There are 2 main parts of the architecture
@@ -9,7 +7,7 @@ There are 2 main parts of the architecture
 
 Initially, it was envisaged that all the parts of this solution would be FHIR compliant but it became evident that this was not achievable in the current environment, so the overall solution now includes HL7 version 2 messaging as shown in the following diagram
 
-<img style="width:900px; float:none" src="arch-1.png"/>
+<img style="float:none" src="arch-1.png"/>
 
 ### Making the request
 This architecture is not yet determined
